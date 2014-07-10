@@ -1,5 +1,5 @@
 ﻿var MyNamespace = MyNamespace || {};
-
+//
 (function() {
     MyNamespace.MyClass = function(width, height) {
         // private variables
